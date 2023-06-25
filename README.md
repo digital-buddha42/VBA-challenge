@@ -1,6 +1,9 @@
 # VBA-challenge
 
 Sources of possible similar code snippets include:
+
+  Credit card example from lecture on 6/15?
+
   HW study session with Grace Palmer, Jonathan Rudamas, Adalbert Payan;
   
   https://www.excel-easy.com/vba/examples/background-colors.html;
