@@ -1,9 +1,12 @@
 # VBA-challenge
 
 Sources of possible similar code snippets include:
-  HW study session with Grace Palmer, Jonathan Rudamas, Adalbert Payan
-  https://www.excel-easy.com/vba/examples/background-colors.html
-  https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
+  HW study session with Grace Palmer, Jonathan Rudamas, Adalbert Payan;
+  
+  https://www.excel-easy.com/vba/examples/background-colors.html;
+  
+  https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit;
+  
 
   ChatGPT for percent formatting:
   
