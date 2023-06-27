@@ -1,5 +1,7 @@
 # VBA-challenge
 
+Instructor (along with the submission instructions) did not say to include the Excel file. Excel file upload failed and was too big for Github. Other classmates, who did not include the Excel file, did not get marked off for not including the file. I am told graders have the file to run the included code.
+
 Sources of possible similar code snippets include:
 
   Credit card example from lecture on 6/15 to mimic cell comparison for line 71
